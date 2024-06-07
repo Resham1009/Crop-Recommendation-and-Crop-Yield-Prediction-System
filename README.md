@@ -44,6 +44,4 @@ Conclusion
 
 The Crop Recommendation and Crop Yield Prediction System provides farmers with valuable insights and recommendations to enhance their crop production efforts. By accurately predicting crop yields and recommending suitable crops based on environmental factors, the system aims to improve agricultural productivity, reduce risk, and promote sustainable farming practices.
 
-Please refer to the documentation for detailed instructions on setting up and deploying the system. Contributions and feedback are welcome to further improve the system's capabilities and impact in the field of agriculture.
-
 Let's revolutionize crop yield prediction and crop recommendation to drive sustainable and efficient food production.
